@@ -100,9 +100,9 @@ GPA 计算方法如下：
 |75 > G >= 60 | 2           |
 |60 > G    | 1               |
 
-$
+$$
 GPA = \frac{\sum{GP \times CREDIT}}{\sum{CREDIT}}
-$
+$$
 
 ```sql
 CREATE OR REPLACE PROCEDURE CAL_GPA(
